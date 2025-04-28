@@ -1,6 +1,6 @@
 # <center> GVFH gamer
 
-### Olá! meu nome é Gian, sou profissional da área de TI a mais de 15 anos, com experiência em infraestrutura e servidores, estou estudando programação e pretendo migrar desenvolvimento de games, no qual sou apaixonado desde a infância, para isso escolhi a engine Godot, por achar que ela mais se adequa ao meu estilo
+### Olá! meu nome é Gian, sou profissional da área de TI a mais de 15 anos, com experiência em infraestrutura e servidores, estou estudando programação e pretendo migrar desenvolvimento de games, no qual tenho profundo interrese, para isso escolhi a engine Godot, por achar que ela mais se adequa ao meu estilo
 
 
 ### Conecte-se comigo
@@ -25,7 +25,7 @@
 
 
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+[![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)](https://www.linux.org)
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/CD/http-ftp/#mirrors)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
