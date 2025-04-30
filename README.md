@@ -39,7 +39,7 @@
 
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gvfh-gamer&repo=blocks-downr&theme=blue-green)](https://github.com/gvfh-gamer/blocks-down)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gvfh-gamer&repo=blocks-down&theme=blue-green)](https://github.com/gvfh-gamer/blocks-down)
 
 
 
